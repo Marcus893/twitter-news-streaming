@@ -29,4 +29,4 @@ The app automatically opens on [http://localhost:3000](http://localhost:3000) to
 ### `node src/server/server.js`
 To establish the socket connection
 
-###The app is ready to be deployed to heroku
+- The app is ready to be deployed to heroku
